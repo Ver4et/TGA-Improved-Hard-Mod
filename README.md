@@ -3,14 +3,14 @@
 TGA Improved Hard Mod builds on the original TGA Hard Mod by coolCat5G, introducing targeted tweaks across various levels for a refreshed challenge. Some areas ramp up difficulty with tougher enemies or scarcer resources, while others streamline gameplay for better flow and accessibility.
 
 ## Aggressive Enemy Scaling
-• Late-game AI boosted 8-300% (speeds, timers, detection ranges)
-• Optimized bytecode maintains 60+ FPS, but the latest game sessions may still cause lag
-• Randomized starting conditions (power 50-85%) force adaptation
+- Late-game AI boosted 8-300% (speeds, timers, detection ranges)
+- Optimized bytecode maintains 60+ FPS, but the latest game sessions may still cause lag
+- Randomized starting conditions (power 50-85%) force adaptation
 
 ## Original Feel Preserved
-• Pure AI behavior tweaks, no visual/mechanic overhauls
-• Surgical code optimizations only
-• Maintains FNAF tension & core challenge loop
+- Pure AI behavior tweaks, no visual/mechanic overhauls
+- Surgical code optimizations only
+- Maintains FNAF tension & core challenge loop
 
 ## Installation
 1. Download the base TGA Hard Mod from [Game Jolt](https://gamejolt.com/games/TGAHardMod/794125).  
